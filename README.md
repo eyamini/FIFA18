@@ -13,11 +13,12 @@ What should Team Owners Consider when Determining a Player's Salary?
 
 # **Machine Learning Process**
 
-Given a Dataset of FIFA Player Attributes (Derived From FIFA 18 Video Game from EA Sports), Player Values were Predicted.
+Given a Dataset of FIFA Player Attributes (Derived from FIFA 18 Video Game from EA Sports), Player Values were Predicted.
 
 Machine Learning Algorithums of Linear Regression and Random Forest Regression were Used.
 
 Attributes with the Most Impact on Player Value were Ordered by Significance. The Results were:
+
   Age – Potential – Finishing – Reactions – Dribbling – Ball Control – Long Shots – Volleys – Vision
   
 These Attributes were Used to Predict Each Player's Value using a SKLEARN Test/Train Model.
