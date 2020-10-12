@@ -32,13 +32,11 @@ Actual Player Values and Predicted Player Values were Depicted Using Matplotlib.
 
 
 
-When Determining Player Value, the Two Most Important Questions Are; How Old is Player?, and How Does Player Rate ‘Potential’?  
-
-These two Factors Played the Largest Role in Player’s Value.  	 
-
+When Determining Player Value, the Two Most Important Questions Are; How Old is Player?, and How Does Player Rate in ‘Potential’?  
+ 	 
 Ideal Age is Between 25 and 32.  
 
-Player Potential, Finishing, Reactions, Dribbling, Ball Control, Long Shots, Volleys, and Vision (in that order of priority) Play the Most Significant Roles Within the Dataset when Determining a Player’s Value.  
+Player Potential, Finishing, Reactions, Dribbling, Ball Control, Long Shots, Volleys, and Vision (in that order of priority) are the Most Significant Features within the Dataset when Determining a Player’s Value.  
 
 
 # **Machine Learning Predictions:** 
