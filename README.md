@@ -24,7 +24,7 @@ Attributes with the Most Impact on Player Value were Ordered by Significance. Th
   
 These Attributes were Used to Predict Each Player's Value using a SKLEARN Test/Train Model.
 
-Actual Player Values and Predicted Player Values are Depicted Using Matplotlib. 
+Actual Player Values and Predicted Player Values were Depicted Using Matplotlib. 
 
 ![Images](Images/plot.png)
 
