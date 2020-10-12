@@ -3,10 +3,12 @@
 ![Images](Images/FIFA-18.jpg)
 
 Machine Learning Algorithims were Used to Predict Player Value in Euros.
+
 What are the Most Significant Factors of Player Value?
+
 What should Team Owners Consider when Determining a Player's Salary?
 
-[Contributor: Esaa Yamini]
+[Author: Esaa Yamini]
 
 
 # **Machine Learning Process**
