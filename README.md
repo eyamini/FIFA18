@@ -5,15 +5,14 @@
 
 Machine Learning Algorithims were Used to Predict Player Value in Euros.
 
-What are the Most Significant Factors of Player Value?
-
-What should Team Owners Consider when Determining a Player's Salary?
+What are the Most Significant Factors of Player Value? What should Team Owners Consider when Determining a Player's Salary?
 
 
 Author: Esaa Yamini
 
 
 # **Machine Learning Process**
+
 
 
 Given a Dataset of FIFA Player Attributes (Derived from FIFA 18 Video Game - EA Sports), Player Values were Predicted.
@@ -32,6 +31,7 @@ Actual Player Values and Predicted Player Values were Depicted Using Matplotlib.
 # **Analysis**
 
 
+
 When Determining Player Value, the Two Most Important Questions Are; How Old is Player?, and How Does Player Rate ‘Potential’?  
 
 These two Factors Played the Largest Role in Player’s Value.  	 
@@ -42,6 +42,7 @@ Player Potential, Finishing, Reactions, Dribbling, Ball Control, Long Shots, Vol
 
 
 # **Machine Learning Predictions:** 
+
 
 
 ![Images](Images/image1.png)
