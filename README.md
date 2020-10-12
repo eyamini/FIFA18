@@ -9,7 +9,8 @@ What are the Most Significant Factors of Player Value?
 
 What should Team Owners Consider when Determining a Player's Salary?
 
-[Author: Esaa Yamini]
+
+Author: Esaa Yamini
 
 
 # **Machine Learning Process**
