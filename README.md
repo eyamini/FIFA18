@@ -3,9 +3,8 @@
 
 ![Images](Images/FIFA-18.jpg)
 
-Machine Learning Algorithims were Used to Predict Player Value in Euros.
 
-What are the Most Significant Factors of Player Value? What should Team Owners Consider when Determining a Player's Salary?
+Determine the "Fair" Value of your Favorite FIFA Players with Machine Learning.
 
 
 Author: Esaa Yamini
@@ -15,7 +14,7 @@ Author: Esaa Yamini
 
 
 
-Given a Dataset of FIFA Player Attributes (Derived from FIFA 18 Video Game - EA Sports), Player Values were Predicted.
+Given a Dataset of FIFA Player Attributes (Actual Player Metrics Derived from FIFA 18 Video Game - EA Sports), Player Values were Predicted.
 
 Machine Learning Algorithums of Linear Regression and Random Forest Regression were Used.
 
